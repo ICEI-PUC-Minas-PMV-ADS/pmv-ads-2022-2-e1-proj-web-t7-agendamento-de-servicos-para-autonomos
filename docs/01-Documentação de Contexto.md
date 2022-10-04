@@ -1,46 +1,36 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+No Brasil, a pandemia de Covid-19 tem paralisado projetos que possuem o objetivo de melhorar a coleta e a destinação do lixo. Com isso, a ação dos catadores de lixo foi precarizada e a população brasileira busca formas de melhorar as condições da coleta seletiva. Isto inclui o uso de uma tecnologia que facilite a iniciativa desses cidadãos. 
+
+Com o aumento desenfreado da produção de resíduos sólidos no Brasil, o território desperdiça cerca de 8 bilhões por ano devido à falta de gerenciamento nos atos de coleta. Isto ocorre por conta de os catadores não conhecerem um meio comum para encontrar informações sobre locais que possuem alta demanda de lixo com potencial reciclável. Como exemplo, o aplicativo ReciclAí (NOGUEIRA, 2021), desenvolvido em 2021, é um dos únicos softwares nacionais que oferecem mapas de localização para os colaboradores e usuários que desejam agendar tal serviço em suas residências. Com isso, a criação de um programa mais completo é imprescindível na melhoria das condições de serviço deste público. 
+
+O manuseio do lixo torna-se uma questão importante devido à falta de conhecimento sobre resíduos tóxicos. Este problema acarreta danos graves à saúde dos catadores, podendo contrair tétano, febre tifoide e até hepatite A. O aplicativo Cataki (COSTA, 2018) tem como principal funcionalidade informações sobre como manusear certos materiais, diminuindo o risco dos colaboradores de adquirir doenças. Com isso, para que um software voltado à melhoria da coleta seletiva seja mais eficiente, é inegável que o mesmo deve orientar o seu público-alvo na manipulação e descarte do lixo coletado. 
+
+Com isso, pode-se concluir que, no mundo atual, ainda não há soluções suficientes para se gerenciar a coleta seletiva. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Falta de informações sobre locais, forma adequada de manuseio, canais de agendamento de horário para a retirada de resíduos destinados à coleta seletiva, e falta de acesso para os coletadores identificarem potenciais usuários que possuam essa demanda. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é desenvolver um aplicativo que permita o agendamento de uma prestação de serviços para retirada de resíduos para a coleta seletiva. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar: 
+
+- Orientar os usuários sobre a forma correta de manuseio de resíduos sólidos. 
+
+- Permitir a comunicação e o agendamento entre profissionais da coleta seletiva e pessoas com interesse no agendamento da retirada de materiais.  
+
+- Possibilitar o agendamento de outros tipos de serviços residenciais. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Os dados da Superintendência de Limpeza Urbana de Belo Horizonte (SLU) publicados em 2019 apontaram que a produção de lixo teve aumento de 14% em relação aos nove anos anteriores (MALHEIROS, 2019). Foram 603 mil toneladas em 2009 contra 689 mil toneladas em 2018. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Segundo documento publicado em 2020 pelo Sistema Nacional de informações sobre o Saneamento (SNIS), mais de 3.712 mil dos municípios participantes do estudo não disponibilizam a coleta de lixo domiciliar para toda a população urbana (YOLANDA e OLIVEIRA, 2021). 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Um aplicativo que facilite a coleta de resíduos sólidos contribui para a redução do lixo urbano, traz benefícios sociais como o desenvolvimento do setor de coletadores e cooperativas e a mitigação da proliferação de pragas 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Apesar de toda a sociedade se beneficiar com soluções destinadas a reciclagem e limpeza urbana, o trabalho terá como foco profissionais autônomos do segmento de limpeza urbana e pessoas com necessidade de descarte de lixo eletrônico, vidros, materiais de construção, e outros não atendidos pelo recolhimento tradicional. 
