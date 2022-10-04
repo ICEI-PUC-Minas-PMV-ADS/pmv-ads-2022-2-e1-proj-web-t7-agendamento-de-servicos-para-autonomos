@@ -1,12 +1,12 @@
 # AGENDAMENTO DE SERVIÇOS PARA AUTÔNOMOS
 
-ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+`CURSO` Análise e Desenvolvimento de Sistemas
 
-PROJETO: DESENVOLVIMENTO
+`DISCIPLINA` Projeto: Desenvolvimento de Aplicação Web Front-End
 
-1º SEMESTRE
+`SEMESTRE` Eixo 1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de uma página web que permita o agendamento de serviços para autônomos.
 
 ## Integrantes
 
