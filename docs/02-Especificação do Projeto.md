@@ -7,7 +7,7 @@ na precificação de produtos por parte de novos microempreendedores mediante pe
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem:
 
-![personas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/blob/main/docs/img/personas.png?raw=true)
+![new-personas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/blob/main/docs/img/new-personas.png?raw=true)
 
 ## Histórias de Usuários
 
@@ -45,6 +45,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Ser responsivo permitindo a visualização em um celular de forma adequada  |  ALTA | 
 |RNF-003| Ser intuitivo, de modo a permitir que pessoas com baixa alfabetização o utilize   |  ALTA |
 |RNF-004| Ser compatível com os principais navegadores do mercado    |  ALTA |
+|RNF-005| Assegurar a LGPD    |  ALTA |
 
 ## Restrições
 
