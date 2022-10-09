@@ -3,76 +3,48 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
-## Controle de Versão
-
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
-
-O projeto segue a seguinte convenção para o nome de branches:
-
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+A metodologia utilizada pelo grupo para que o problema apresentado pudesse ser solucionado foi o desenvolvimento de um aplicativo Web Front-End, utilizando da aplicação de processos ágeis e de feedbacks constantes do cliente para assegurar o aprimoramento do processo. Foram determinadas equipes auto-organizadas com a liderança diluída, tendo como facilitador do processo o Scrum Master. Utilizamos como artefatos o Backlog do Produto, Incremento do Protocolo e Backlog do Sprint. As ferramentas e estrutura para gestão do código fonte serão descritas a seguir.
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-ScrumMaster: Adrian Keven Gomes Rares
+A equipe utiliza de motodologias ágeis, foi escolhido o Scrum como base para definição do processo de desenvolvimento e o Kanban como sistema de controle e gestão do fluxo de produção.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe está orgtanizada da seguinte maneira:
+ScrumMaster: Adrian Keven Gomes Rares
+Product Owner:
+Equipe de Desenvolvimento:
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O processo foi definido através de sprints, onde ocorreu a definição do planejamento, execução e evidências.
 
+#### Sprint 1
+
+Planejamento: Nesta sprint os entregáveis planejados foram a Documentação de Contexto e a Especificação do Projeto, sendo apresentadas a justificativa, objetivos, requisitos funcionais e não funcionais e restrições.
+
+Execução: 
+- Introdução: Íris Gabriela Queiroz Gonçalves
+- Problema, Objetivos, Justificativa, Público Alvo, Personas: Luís Otávio dos Santos Coura
+- Histórias de usuários, Requisitos funcionais e não funcionais, Restrições: Adrian Keven Gomes Rares
+
+Evidências: Nesta sprint, os resultados foram a conclusão dos requisitos de Documentação de Contexto e Especificação do Projeto.
+
+#### Sprint 2
+
+Planejamento: Nesta sprint os entregáveis planejados são: Metodologia, relacionando o ambiente de trabalho e o gerenciamento do projeto, também está planejado fazer o Projeto de Interface, incluindo os fluxos de usuários e os Wireframes das diversas telas e a apresentação da Arquitetura de Solução.
+
+Execução: Devido a falta de tempo para a sprint e a definição dos papéis, algumas ações esperadas para essa tarefa deixaram de ser realizadas. Foi determinado junto a equipe de produção a prorrogação do período para que a entrega do processo pudesse ser satisfatória. 
+
+Evidências: A serem apresentadas após o termino da execução.
+ 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas empregadas para organização e gerenciamento das tarefas do projeto são:
 
 - Editor de código: GitHub
 - Ferramentas de comunicação: Microsoft Teams
 - Ferramentas de desenho de tela (_wireframing_): MarvelApp
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
