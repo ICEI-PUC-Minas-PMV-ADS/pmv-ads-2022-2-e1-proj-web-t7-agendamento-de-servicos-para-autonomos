@@ -34,7 +34,7 @@ Evidências: Nesta sprint, os resultados foram a conclusão dos requisitos de Do
 
 #### Sprint 2
 
-Planejamento: Nesta sprint os entregáveis planejados são: Metodologia, relacionando o ambiente de trabalho e o gerenciamento do projeto, também está planejado fazer o Projeto de Interface, incluindo os fluxos de usuários e os Wireframes das diversas telas e a apresentação da Arquitetura de Solução.
+Planejamento: Nesta sprint os entregáveis planejados são a Metodologia, relacionando o ambiente de trabalho e o gerenciamento do projeto, também está planejado fazer o Projeto de Interface, incluindo os fluxos de usuários e os Wireframes das diversas telas e a apresentação da Arquitetura de Solução.
 
 Execução: Devido a falta de tempo para a sprint e a definição dos papéis, algumas ações esperadas para essa tarefa deixaram de ser realizadas. Foi determinado junto a equipe de produção a prorrogação do período para que a entrega do processo pudesse ser satisfatória. 
 
