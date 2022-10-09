@@ -17,13 +17,10 @@ Product Owner: Íris Gabriela Queiroz Gonçalves
 
 Equipe de Desenvolvimento:
 
-Douglas Zocrato Gomes
-
-Gabriela Matos Xavier
-
-Luís Otávio Dos Santos Coura
-
-Luiz Otávio Pereira Do Nascimento
+- Douglas Zocrato Gomes
+- Gabriela Matos Xavier
+- Luís Otávio Dos Santos Coura
+- Luiz Otávio Pereira Do Nascimento
 
 ### Processo
 
