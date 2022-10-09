@@ -45,7 +45,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Ser responsivo permitindo a visualização em um celular de forma adequada  |  ALTA | 
 |RNF-003| Ser intuitivo, de modo a permitir que pessoas com baixa alfabetização o utilize   |  ALTA |
 |RNF-004| Ser compatível com os principais navegadores do mercado    |  ALTA |
-|RNF-005| Assegurar a LGPD    |  ALTA |
+|RNF-005| Assegurar que o uso de dados estará em conformidade com a LGPD    |  ALTA |
 
 ## Restrições
 
@@ -56,13 +56,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data limite  |
 |02| A equipe não pode subcontratar o desenvolvimento do trabalho       |
 |03| O site não deve demandar pagamento         |
-
-## Referências
-
-COSTA. M. Cataki: veja como funciona e como usar o app para reciclagem e catadores. Tech Tudo. 18/12/2018. Disponível em: https://www.techtudo.com.br/dicas-e-tutoriais/2018/12/como-funciona-o-cataki-aprenda-a-usar-o-app-para-reciclar-materiais.ghtml. Acesso em: 21/09/2022. 
-
-MALHEIRO. F. Produção de lixo em BH cresce 14%, e reciclagem tem queda de 4,6%, O Tempo. 10/11/219. Disponível em: https://www.otempo.com.br/cidades/producao-de-lixo-em-bh-cresce-14-e-reciclagem-tem-queda-de-4-6-1.2259929. Acesso em: 21/09/2022. 
-
-NOGUEIRA. E. 6 aplicativos que auxiliam na reciclagem de residúos sem sair de casa. Um So Planeta.  Disponível em: https://umsoplaneta.globo.com/sociedade/noticia/2021/05/24/6-aplicativos-que-auxiliam-na-reciclagem-de-residuos-sem-sair-de-casa.ghtml. 21/09/2022. 
-
-YOLANDA. P, e OLIVEIRA. N. Aumento da produção de lixo no Brasil requer ação coordenada entre governos e cooperativas de catadores, Senado. 07/06/2021. Disponível em: https://www12.senado.leg.br/noticias/infomaterias2021/06/aumento-da-producao-de-lixo-no-brasil-requer-acao-coordenada-entre-governos-e-cooperativas-de-catadores?utm_source=Twitter&utm_medium=MidiasSociaisSenado. Acesso em: 21/09/2022. 
