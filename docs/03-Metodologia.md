@@ -12,10 +12,12 @@ A equipe utiliza de motodologias ágeis, foi escolhido o Scrum como base para de
 A equipe está orgtanizada da seguinte maneira:
 
 ScrumMaster: Adrian Keven Gomes Rares
-
-Product Owner:
-
+Product Owner: Íris Gabriela Queiroz Gonçalves
 Equipe de Desenvolvimento:
+Douglas Zocrato Gomes
+Gabriela Matos Xavier
+Luís Otávio Dos Santos Coura
+Luiz Otávio Pereira Do Nascimento
 
 ### Processo
 
