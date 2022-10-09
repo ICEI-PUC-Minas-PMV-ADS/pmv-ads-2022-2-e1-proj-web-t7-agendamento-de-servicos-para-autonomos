@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 A metodologia utilizada pelo grupo para que o problema apresentado pudesse ser solucionado foi o desenvolvimento de um aplicativo Web Front-End, utilizando da aplicação de processos ágeis e de feedbacks constantes do cliente para assegurar o aprimoramento do processo. Foram determinadas equipes auto-organizadas com a liderança diluída, tendo como facilitador do processo o Scrum Master. Utilizamos como artefatos o Backlog do Produto, Incremento do Protocolo e Backlog do Sprint. As ferramentas e estrutura para gestão do código fonte serão descritas a seguir.
 
 ## Gerenciamento de Projeto
@@ -12,8 +10,11 @@ A metodologia utilizada pelo grupo para que o problema apresentado pudesse ser s
 A equipe utiliza de motodologias ágeis, foi escolhido o Scrum como base para definição do processo de desenvolvimento e o Kanban como sistema de controle e gestão do fluxo de produção.
 
 A equipe está orgtanizada da seguinte maneira:
+
 ScrumMaster: Adrian Keven Gomes Rares
+
 Product Owner:
+
 Equipe de Desenvolvimento:
 
 ### Processo
