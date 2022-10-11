@@ -20,13 +20,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-● Product Owner: Luís Otávio Dos Santos Coura
-● Scrum Master: Adrian Keven Gomes Rares
-● Equipe de Desenvolvimento:
-○ Douglas Zocrato Gomes
-○ Gabriela Matos Xavier
-○ Luiz Otávio Pereira Do Nascimento
-○ Íris Gabriela Queiroz Gonçalves
+- Product Owner: Luís Otávio Dos Santos Coura
+- Scrum Master: Adrian Keven Gomes Rares
+- Equipe de Desenvolvimento: Douglas Zocrato Gomes, Gabriela Matos Xavier, Luiz Otávio Pereira Do Nascimento e Íris Gabriela Queiroz Gonçalves
 
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o Trello estruturado com as seguintes listas: 
 ● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
