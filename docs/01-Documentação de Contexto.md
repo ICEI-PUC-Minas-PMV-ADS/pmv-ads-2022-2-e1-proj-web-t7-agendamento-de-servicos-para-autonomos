@@ -28,20 +28,10 @@ Como objetivos específicos, podemos ressaltar:
 
 Os dados da Superintendência de Limpeza Urbana de Belo Horizonte (SLU) publicados em 2019 apontaram que a produção de lixo teve aumento de 14% em relação aos nove anos anteriores (MALHEIROS, 2019). Foram 603 mil toneladas em 2009 contra 689 mil toneladas em 2018. 
 
-Segundo documento publicado em 2020 pelo Sistema Nacional de informações sobre o Saneamento (SNIS), mais de 3.712 mil dos municípios participantes do estudo não disponibilizam a coleta de lixo domiciliar para toda a população urbana (YOLANDA e OLIVEIRA, 2021). 
+Segundo documento publicado em 2020 pelo Sistema Nacional de informações sobre o Saneamento (SNIS), mais de 3.712 mil dos municípios participantes do estudo não disponibilizam a coleta de lixo domiciliar para toda a população urbana (YOLANDA; OLIVEIRA, 2021). 
 
 Um aplicativo que facilite a coleta de resíduos sólidos contribui para a redução do lixo urbano, traz benefícios sociais como o desenvolvimento do setor de coletadores e cooperativas e a mitigação da proliferação de pragas 
 
 ## Público-Alvo
 
 Apesar de toda a sociedade se beneficiar com soluções destinadas a reciclagem e limpeza urbana, o trabalho terá como foco profissionais autônomos do segmento de limpeza urbana e pessoas com necessidade de descarte de lixo eletrônico, vidros, materiais de construção, e outros não atendidos pelo recolhimento tradicional. 
-
-## Referências
-
-COSTA. M. Cataki: veja como funciona e como usar o app para reciclagem e catadores. Tech Tudo. 18/12/2018. Disponível em: https://www.techtudo.com.br/dicas-e-tutoriais/2018/12/como-funciona-o-cataki-aprenda-a-usar-o-app-para-reciclar-materiais.ghtml. Acesso em: 21/09/2022. 
-
-MALHEIRO. F. Produção de lixo em BH cresce 14%, e reciclagem tem queda de 4,6%, O Tempo. 10/11/219. Disponível em: https://www.otempo.com.br/cidades/producao-de-lixo-em-bh-cresce-14-e-reciclagem-tem-queda-de-4-6-1.2259929. Acesso em: 21/09/2022.
-
-NOGUEIRA. E. 6 aplicativos que auxiliam na reciclagem de residúos sem sair de casa. Um So Planeta.  Disponível em: https://umsoplaneta.globo.com/sociedade/noticia/2021/05/24/6-aplicativos-que-auxiliam-na-reciclagem-de-residuos-sem-sair-de-casa.ghtml. 21/09/2022.
-
-YOLANDA. P, e OLIVEIRA. N. Aumento da produção de lixo no Brasil requer ação coordenada entre governos e cooperativas de catadores, Senado. 07/06/2021. Disponível em: https://www12.senado.leg.br/noticias/infomaterias2021/06/aumento-da-producao-de-lixo-no-brasil-requer-acao-coordenada-entre-governos-e-cooperativas-de-catadores?utm_source=Twitter&utm_medium=MidiasSociaisSenado. Acesso em: 21/09/2022. 
