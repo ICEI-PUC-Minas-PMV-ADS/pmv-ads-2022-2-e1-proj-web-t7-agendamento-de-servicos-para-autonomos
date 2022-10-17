@@ -11,7 +11,7 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 |--------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte |  GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos |
 | Documentação do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos |
-| Projeto de Interface e Wireframes | Figma |  |
+| Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/RLSUgRB2HktpcwRz6ldKnh/ADS?node-id=0%3A1 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/rhN5TCrn/agendamento-de-servi%C3%A7os-para-aut%C3%B4nomos |
 
 ## Gerenciamento do Projeto
@@ -20,9 +20,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-- Product Owner: Luís Otávio Dos Santos Coura
+- Product Owner: Íris Gabriela Queiroz Gonçalves
 - Scrum Master: Adrian Keven Gomes Rares
-- Equipe de Desenvolvimento: Douglas Zocrato Gomes, Gabriela Matos Xavier, Luiz Otávio Pereira Do Nascimento e Íris Gabriela Queiroz Gonçalves
+- Equipe de Desenvolvimento: Douglas Zocrato Gomes, Gabriela Matos Xavier, Luís Otávio Dos Santos Coura e Luiz Otávio Pereira Do Nascimento
 
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o Trello estruturado com as seguintes listas: 
 ● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
