@@ -11,7 +11,7 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 |--------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte |  GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos |
 | Documentação do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos |
-| Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/RLSUgRB2HktpcwRz6ldKnh/ADS?node-id=0%3A1 |
+| Projeto de Interface e Wireframes | Figma | https://figma.com/file/RLSUgRB2HktpcwRz6ldKnh/ADS?node-id=0%3A1 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/rhN5TCrn/agendamento-de-servi%C3%A7os-para-aut%C3%B4nomos |
 
 ## Gerenciamento do Projeto
