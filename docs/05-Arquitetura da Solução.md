@@ -2,11 +2,15 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-## Diagrama de componentes
-
-<img src="https://www.figma.com/file/ChcuOR582tmvJD6t4WlSde/Untitled" />
-<center>Figura 1 - Arquitetura da Solução</center>
-
+## Diagrama de Componentes
+   
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/114973305/197408285-39afc0ed-cd54-4b61-99de-567dffade148.png" width="700px" />
+</div>
+<div align="center">
+   Figura 1 - Diagrama de Componentes
+</div>   
+   
 ## A solução implementada conta com os seguintes módulos:
 
 - **Usuário** - O que vai acessar os dados do sistema.
