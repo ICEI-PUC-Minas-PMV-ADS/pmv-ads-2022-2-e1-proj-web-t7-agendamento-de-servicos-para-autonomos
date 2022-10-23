@@ -11,7 +11,7 @@
 
 - **Usuário** - O que vai acessar os dados do sistema.
 - **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - HTML – HiperText Markup Language, que é uma linguagem de marcação utilizada na construção de páginas na web.
+   - HTML – HiperText Markup Language, que é uma linguagem de marcação utilizada na construção de páginas na web.
    - CSS – Cascading Style Sheets, que é um mecanismo para adicionar estilo a um documento web.
    - JavaScript – É uma linguagem de programação interpretada estruturada para manipular comportamentos de páginas web. 
 - **Local Storage** - Armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON.
