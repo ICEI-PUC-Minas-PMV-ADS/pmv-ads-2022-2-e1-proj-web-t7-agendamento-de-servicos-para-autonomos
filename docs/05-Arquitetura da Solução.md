@@ -4,13 +4,7 @@
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
-
-![Diagrama de Componentes](img/componentes.png)
+!.[Diagrama de Componentes].(https://www.figma.com/file/ChcuOR582tmvJD6t4WlSde/Untitled)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
@@ -28,4 +22,3 @@ A solução implementada conta com os seguintes módulos:
 - Repositório de código fonte: GitHub
 - Documentação do projeto: GitHub
 - Gerenciamento do Projeto: Trello
-- 
