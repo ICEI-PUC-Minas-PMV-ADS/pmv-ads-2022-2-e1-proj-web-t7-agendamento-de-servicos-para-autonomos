@@ -4,7 +4,7 @@
 
 ## Diagrama de componentes
 
-!.[Diagrama de Componentes].(https://www.figma.com/file/ChcuOR582tmvJD6t4WlSde/Untitled)
+<img src="https://www.figma.com/file/ChcuOR582tmvJD6t4WlSde/Untitled" />
 <center>Figura 1 - Arquitetura da Solução</center>
 
 ## A solução implementada conta com os seguintes módulos:
