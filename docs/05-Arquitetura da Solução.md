@@ -8,7 +8,7 @@
    <img src="https://user-images.githubusercontent.com/114973305/197408285-39afc0ed-cd54-4b61-99de-567dffade148.png" width="700px" />
 </div>
 <div align="center">
-   Figura 1 - Diagrama de Componentes
+   Figura 26 - Diagrama de Componentes
 </div>   
    
 ## A solução implementada conta com os seguintes módulos:
