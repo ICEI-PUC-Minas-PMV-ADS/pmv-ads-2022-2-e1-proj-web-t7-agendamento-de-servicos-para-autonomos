@@ -23,7 +23,4 @@
 
 ## Tecnologias Utilizadas
 
-- Editor de Código Fonte: Visual Studio Code
-- Repositório de código fonte: GitHub
-- Documentação do projeto: GitHub
-- Gerenciamento do Projeto: Trello
+- GitHub Pages
