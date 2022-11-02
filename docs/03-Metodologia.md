@@ -21,8 +21,8 @@ processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
 - Product Owner: Íris Gabriela Queiroz Gonçalves
-- Scrum Master: Adrian Keven Gomes Rares
-- Equipe de Desenvolvimento: Douglas Zocrato Gomes, Gabriela Matos Xavier, Luís Otávio Dos Santos Coura e Luiz Otávio Pereira Do Nascimento
+- Scrum Master: Luís Otávio Dos Santos Coura
+- Equipe de Desenvolvimento: Douglas Zocrato Gomes, Gabriela Matos Xavier e Luiz Otávio Pereira Do Nascimento
 
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o Trello estruturado com as seguintes listas: 
 ● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
