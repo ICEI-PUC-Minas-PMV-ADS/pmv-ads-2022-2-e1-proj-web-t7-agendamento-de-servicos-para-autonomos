@@ -67,7 +67,7 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
 - Planejamento: Nesta sprint os entregáveis planejados foram o Template do Site e a Programação de Funcionalidades.
 
 - Execução: 
-  - Toda a equipe ficou responsável para execução da sprint 
+  - Toda a equipe ficou responsável pela execução da sprint 
   - Devido à falta de tempo para a sprint, algumas ações esperadas para essa tarefa deixaram de ser realizadas. Foi determinado junto a equipe de desenvolvimento a prorrogação do período para que a entrega do processo pudesse ser satisfatória. 
   - Tivemos como dificuldades o desligamento do colaborador Adrian Keven que figurava como Scrum Master 
 
