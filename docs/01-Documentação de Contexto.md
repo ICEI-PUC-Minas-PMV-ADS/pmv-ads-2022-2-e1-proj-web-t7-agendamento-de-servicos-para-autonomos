@@ -34,4 +34,4 @@ Um aplicativo que facilite a coleta de resíduos sólidos contribui para a redu�
 
 ## Público-Alvo
 
-Apesar de toda a sociedade se beneficiar com soluções destinadas a reciclagem e limpeza urbana, o trabalho terá como foco profissionais autônomos do segmento de limpeza urbana e pessoas com necessidade de descarte de lixo eletrônico, vidros, materiais de construção, e outros não atendidos pelo recolhimento tradicional. 
+Apesar de toda a sociedade se beneficiar com soluções destinadas à reciclagem e limpeza urbana, o trabalho terá como foco profissionais autônomos do segmento de limpeza urbana e pessoas com necessidade de descarte de lixo eletrônico, vidros, materiais de construção, e outros não atendidos pelo recolhimento tradicional. 
