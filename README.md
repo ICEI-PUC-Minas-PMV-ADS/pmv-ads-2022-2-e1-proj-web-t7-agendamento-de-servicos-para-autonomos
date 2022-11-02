@@ -12,7 +12,7 @@ Criação de uma página web que permita o agendamento de serviços para autôno
 
 * Douglas Zocrato Gomes
 * Gabriela Matos Xavier
-* Ìris Gabriela Queiroz Gonçalves
+* Íris Gabriela Queiroz Gonçalves
 * Luís Otávio Dos Santos Coura
 * Luiz Otávio Pereira Do Nascimento
 
