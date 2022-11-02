@@ -75,19 +75,14 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
 <img src="https://user-images.githubusercontent.com/114973305/199386261-22841747-c38e-425b-b3b8-b20756d52d34.png" width= "400px">
 
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o Trello estruturado com as seguintes listas: 
-● Backlog:  recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. 
-Todas as atividades identificadas no decorrer do projeto também devem ser 
-incorporadas a esta lista.
-● To  Do:  Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos 
-trabalhando.
-● Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-● Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de 
-qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou 
-revisões necessárias, ele está agendado e pronto para a ação.
+  - Backlog: Recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+  - To  Do: Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos trabalhando.
+  - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+  - Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade  e  estão  prontas  para  serem  entregues  ao  usuário.  Não  há  mais  edições  ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está 
-disponível através da URL (https://trello.com/b/rhN5TCrn/agendamento-de-servi%C3%A7os-para-aut%C3%B4nomos) e é apresentado, no estado atual, na Figura X. 
+O quadro Kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está 
+disponível através da URL (https://trello.com/b/rhN5TCrn/agendamento-de-servi%C3%A7os-para-aut%C3%B4nomos) e é apresentado, no estado atual, na Figura 10. 
 
 ![Kanban](https://user-images.githubusercontent.com/114973305/199388256-6964e0c7-f44f-47d9-a389-28e5c6a0d960.png)
-Figura 12 - Tela do kanban utilizada pelo grupo
+Figura 10 - Tela do Kanban utilizada pelo grupo
 
