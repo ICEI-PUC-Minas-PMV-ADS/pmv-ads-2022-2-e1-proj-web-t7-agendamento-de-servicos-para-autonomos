@@ -53,7 +53,7 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
   - Metodologia: Luís Otávio  
   - Projeto de Interface: Íris Gabriela 
   - Arquitetura de Solução: Douglas Zocaratto, Gabriela Mattos e Luiz Otávio  
-  -  A partir desse momento foram definidas a utilização de ferramentas como GitHub, Trello e Figma
+  -  A partir desse momento foram definidas a utilização de plataformas como GitHub, Trello e Figma
 
 - Evidências:
 <img src="https://user-images.githubusercontent.com/114973305/199384191-d8ece43c-ba3a-4506-aa25-91b95288d587.png" width="400px">
