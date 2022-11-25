@@ -10,7 +10,7 @@ Criação de uma página web que permita o agendamento de serviços para autôno
 
 ## Integrantes
 
-* Douglas Zocrato Gomes
+* Douglas Zoccarato Gomes
 * Gabriela Matos Xavier
 * Íris Gabriela Queiroz Gonçalves
 * Luís Otávio Dos Santos Coura
