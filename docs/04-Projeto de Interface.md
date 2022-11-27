@@ -5,7 +5,7 @@
 
 ## User Flow
 
-<img src="https://user-images.githubusercontent.com/114973305/197417833-5accc013-d133-456a-933d-f094b0072497.jpeg" width="700px">
+<img src="https://user-images.githubusercontent.com/114973305/204160980-4f64a26e-5b59-480a-be92-421656614fb1.jpeg" width="700px">
 
 
 ## Wireframes
