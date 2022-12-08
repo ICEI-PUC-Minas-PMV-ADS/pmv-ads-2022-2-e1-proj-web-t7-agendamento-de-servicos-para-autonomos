@@ -1,0 +1,50 @@
+#menu {
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    align-items: center;
+    background-color: gray;
+}
+
+#logo {font-size: 16pt;
+    font-weight: bold;
+    margin-right: 1.5rem;
+}
+
+#links {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+#links a {
+    text-decoration: none;
+    margin-right: 1.5ren;
+    color: black;
+    flex: 0.5;
+}
+
+#links a:visited {
+    color: black
+}
+
+#links a.ativo {
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: thin solid black;
+}
+
+#botoes {
+    margin-left: 1.5rem;
+    margin-right: 1,5rem;
+    display: flex;
+    flex-direction: row;
+}
+ 
+
+
+
+
+
+
+
