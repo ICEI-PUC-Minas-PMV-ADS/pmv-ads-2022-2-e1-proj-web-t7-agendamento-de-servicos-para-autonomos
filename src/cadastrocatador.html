@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="cadastrocatador.css">
+  <title>Cadastro de catador</title>
+</head>
+
+<!--PERGUNTAR SE TEM QUE COLOCAR O FORMULARIO TODO DENTRO DE UMA MESMA FORM-->
+
+<body>
+  <div class="welcome">
+    <h1>SEJA BEM-VINDO(A)!</h1>
+
+    <input type="radio" name="catador" id="catador">
+    <label for="catador">Catador</label>
+    <input type="radio" name="reciclador" id="reciclador">
+    <label for="reciclador">Reciclador</label>
+  </div>
+
+  <div class="form">
+    <label for="name">Nome completo</label>
+    <input type="text" name="name" id="name">
+
+    <label for="email">E-mail</label>
+    <input type="email" name="email" id="email">
+
+    <label for="cpf">CPF</label>
+    <input type="number" name="cpf" id="cpf"> <!--limitar quantidade de caracteres a 11-->
+
+    <label for="cell">Celular</label>
+    <input type="number" name="cell" id="cell">
+
+    <label for="password">Senha</label>
+    <input type="password" name="password" id="password">
+
+    <label for="password-confirmation">Confirmar senha</label>
+    <input type="password" name="password-confirmation" id="password-confirmation">
+  </div>
+
+  <div class="materials">
+    <p>Quais materiais você recolhe?</p>
+
+    <div class="imgs-grid">
+      <form action=""><!--ADICIONAR IMAGENS-->
+        <input type="radio" name="papel" id="papel">
+        <img src="img/papel.png" alt="">
+        <label for="papel">Papel</label>
+      
+        <input type="radio" name="metal" id="metal">
+        <label for="metal">Metal</label>
+        <img src="" alt="">
+
+        <input type="radio" name="plastico" id="plastico">
+        <label for="plastico">Plástico</label>
+        <img src="" alt="">
+
+        <input type="radio" name="vidro" id="vidro" value="vidro">
+        <label for="vidro">Vidro</label>
+        <img src="" alt="">
+
+        <input type="radio" name="pilhas-e-baterias" id="pilhas-e-baterias">
+        <label for="pilhas-e-baterias">Pilhas e Baterias</label>
+        <img src="" alt="">
+    </form> 
+  </div>
+
+  <input class="submit" type="submit" value="Cadastrar">
+</body>
+</html>
