@@ -1,14 +1,241 @@
 #menu {
     display: flex;
     flex-direction: row;
-    width: 1000px;
+    width: 1330px;
+    height: 60px;
+    top: 16px;
+    left: 55px;
+    display: flex;
+    flex-direction: row;
     align-items: center;
-    background-color: gray;
 }
 
-#logo {font-size: 16pt;
-    font-weight: bold;
-    margin-right: 1.5rem;
+.logo {
+    width: 234px;
+    height: 60px;
+    top: 16px;
+    left: 55px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 40px;
+    line-height: 60px;
+    line-height: 100px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+.home {
+    width: 73px;
+    height: 36px;
+    top: 28px;
+    left: 366px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+.informativos {
+    width: 156px;
+    height: 36px;
+    top: 28px;
+    left: 519px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+.como-funciona {
+    width: 193px;
+    height: 36px;
+    top: 28px;
+    left: 755px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+.login {
+    width: 152px;
+    height: 46px;
+    top: 23px;
+    left: 1031px;
+    border-radius: 20px;
+    color: rgba(185, 181, 181, 1);
+    shadow: drop-shadow(0, 0, 0, 0.25);    
+    fill: solid #B9B5B5;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+.cadastro {
+    width: 172px;
+    height: 48px;
+    top: 22px;
+    left: 1213px;
+    border-radius: 20px;
+    color: rgba(185, 181, 181, 1);
+    shadow: drop-shadow(0, 0, 0, 0.25);    
+    fill: solid #B9B5B5;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 22px;
+    line-height: 33px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+
+
+
+
+
+
+
+
+#info {
+    display: flexbox;
+    flex-direction: column;
+}
+
+
+.bloco1 {
+    width: 1180px;
+    height: 516px;
+    top: 148px;
+    left: 130px;
+    border-radius: 30px;
+    color: rgba(255, 255, 255, 1);
+    shadow: drop-shadow(0, 15, 40, 0);
+    border-radius: 40%;
+    offset: 0px, 15px;
+    fill: solid #FFFFFF;
+}
+
+.bloco1, h1 {
+    width: 894px;
+    height: 48px;
+    top: 164px;
+    left: 282px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600px;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+bloco1, p {
+    width: 894px;
+    height: 48px;
+    top: 164px;
+    left: 282px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600px;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+    
+.bloco2, h1 {
+    width: 894px;
+    height: 48px;
+    top: 164px;
+    left: 282px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600px;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+
+}
+.bloco2, p {
+    width: 894px;
+    height: 48px;
+    top: 164px;
+    left: 282px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600px;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(102, 102, 102, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: unset;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: left;
+    vertical-align: top;
+    fill: solid #666666;
+}
+
+#info {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    size: 32px;
+    line-height: 48px;
 }
 
 #links {
@@ -40,7 +267,9 @@
     display: flex;
     flex-direction: row;
 }
- 
+
+
+
 
 
 
