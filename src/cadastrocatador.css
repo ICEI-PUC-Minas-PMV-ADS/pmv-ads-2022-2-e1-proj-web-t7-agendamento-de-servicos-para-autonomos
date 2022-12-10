@@ -3,6 +3,7 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -14,12 +15,62 @@ body {
   max-width: 100%;
 }
 
-header {
-  max-width: 100%;
+.header {
+  background-color: #CECECE;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.header-logo-p {
+  font-size: 40px;
+}
+
+.header-menu {
+  display: flex;
+  gap: 80px;
+}
+
+.header-menu-item {
+  text-decoration: none;
+  color: #666666;
+  font-size: 24px;
+}
+
+.header-menu-item:hover {
+  border-bottom: #666666;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 2px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
 }
 
 .btn {
-  color: black;
+  background-color: #CECECE;
+  width: 152px;
+  height: 46px;
+  border-radius: 20px;
+  border-style: none;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.welcome {
+  margin-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #666666;
 }
 
 h1 {
@@ -27,27 +78,51 @@ h1 {
   justify-content: center;
 }
 
+label {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
 /*Edição do input text*/
-#name, #email, #cpf, #cell, #password, #password-confirmation {
+#name, #email, #cpf, #cell, #state, #city, #cep, #address, #complement, #bairro, #password, #password-confirmation {
   background-color: #D9D9D9;
   border-style: none;
   border-radius: 20px;
   width: 730px;
   height: 62px;
 }
-/*Alinhar ao centro*/
+
 .form {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
-img {
+.materials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.question {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.imgs-grid {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px;
+}
+
+.img {
   width: 130px;
   height: 120px;
   border-radius: 20px;
   filter: drop-shadow(0px 15px 40px rgba(0, 0, 0, 0.25));
 }
-/*Alinhar ao centro*/
+
 .submit {
   background-color: #6F6363;
   color: #FFF;
@@ -56,4 +131,11 @@ img {
   box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   border-style: none;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background-color: #564b4b;
 }
