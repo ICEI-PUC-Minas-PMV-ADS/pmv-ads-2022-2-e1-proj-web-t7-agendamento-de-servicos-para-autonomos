@@ -3,8 +3,65 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+}
+
+body {
   font-family: 'Poppins', sans-serif;
   color: #666;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 16px;
+}
+
+.header-logo-p {
+  font-size: 40px;
+}
+
+.header-menu {
+  display: flex;
+  gap: 80px;
+}
+
+.header-menu-item {
+  text-decoration: none;
+  color: #666666;
+  font-size: 24px;
+}
+
+.header-menu-item:hover {
+  border-bottom: #666666;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 2px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #CECECE;
+  width: 152px;
+  height: 46px;
+  border-radius: 20px;
+  border-style: none;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #666666;
 }
 
 .main {
