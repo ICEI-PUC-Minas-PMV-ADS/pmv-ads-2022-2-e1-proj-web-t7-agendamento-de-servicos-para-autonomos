@@ -17,7 +17,7 @@ A responsividade segue o padrão do Bootstrap e o template está disponível no 
 <p align="center">Figura 3: Como Funciona</p>
 
 ![Template padrão do site](../docs/img/login.png)
-<p align="center">Figura 4: Login</p>
+<p align="center">Figura  4: Login</p>
 
 ![Template padrão do site](../docs/img/cadastro.png)
 <p align="center">Figura 5: Seleção de Cadastro</p>
