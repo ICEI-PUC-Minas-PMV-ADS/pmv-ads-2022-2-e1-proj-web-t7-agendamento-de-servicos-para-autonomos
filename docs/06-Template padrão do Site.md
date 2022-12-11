@@ -13,8 +13,15 @@ A responsividade segue o padrão do Bootstrap e o template está disponível no 
 ![Template padrão do site](../docs/img/informativos.png)
 <p align="center">Figura 2: Informativos</p>
 
+![Template padrão do site](../docs/img/comofunciona.png)
+<p align="center">Figura 3: Como Funciona</p>
+
 ![Template padrão do site](../docs/img/login.png)
-<p align="center">Figura 2: Login</p>
+<p align="center">Figura 4: Login</p>
 
 ![Template padrão do site](../docs/img/cadastro.png)
-<p align="center">Figura 2: Cadastro</p>
+<p align="center">Figura 5: Seleção de Cadastro</p>
+
+![Template padrão do site](../docs/img/cadastroreciclador.png)
+<p align="center">Figura 6: Cadastro</p>
+
