@@ -32,10 +32,10 @@
 <img src="https://user-images.githubusercontent.com/114973305/206882989-007a02e0-b844-401b-88b9-8647f5ab139e.png" width="900px">
 
 - Pagina inicial Coletador
-<img src="https://user-images.githubusercontent.com/114973305/206882957-893997bc-a7c7-430e-acfc-98a46bb687fc.png" width="900px">
+<img src="https://user-images.githubusercontent.com/114973305/206883723-e4deccd0-6836-4d81-a4ec-bbf4d9131022.png" width="900px">
 
 - Agendamento Coletador
-<img src="https://user-images.githubusercontent.com/114973305/206882966-934003b5-356a-481c-bc1c-908a4dfccc0a.png" width="900px">
+<img src="https://user-images.githubusercontent.com/114973305/206883669-981c3b34-2d4d-4a95-9dab-c191861e6f93.png" width="900px">
 
 - Agendamento de coleta
 <img src="https://user-images.githubusercontent.com/114973305/206882976-538cf4d3-8c45-4173-ab62-b8e32ac888a2.png" width="900px">
