@@ -3,48 +3,45 @@
 
 ## User Flow
 
-<img src="https://user-images.githubusercontent.com/114973305/204160980-4f64a26e-5b59-480a-be92-421656614fb1.jpeg" width="700px">
+![Projeto de Interface](../docs/img/userflow.png)
 
 
 ## Wireframes
-  - Home
-<img src="https://user-images.githubusercontent.com/114973305/199407724-5e92aad1-b5b7-4eb8-abfa-3b16e2563288.png" width="700px">
-
-  - Login
-<img src="https://user-images.githubusercontent.com/114973305/199407748-16d398db-e138-4497-851b-f959019685f4.png" width="700px">
-
-  - cadastro para Catador
-<img src="https://user-images.githubusercontent.com/114973305/199407774-441a17a0-c508-4b91-97b2-023c94865662.png" width="700px">
-
-  - Cadastro para Reciclador
-<img src="https://user-images.githubusercontent.com/114973305/199407789-4102a5cd-eb5e-4f70-b2fe-bdbe4593fb8a.png" width="700px">
-
-  - Cadastro de endereço
-<img src="https://user-images.githubusercontent.com/114973305/199407816-a070df3c-c1a8-40bd-b2df-8ac7b30f6f02.png" width="700px">
+  - Home   
+<img src="https://user-images.githubusercontent.com/114973305/206882899-5dbaef1e-ba70-4f28-ae19-c9ef645eeced.png" width="900px">
+     
+  - Informativos
+<img src="https://user-images.githubusercontent.com/114973305/206882929-e632547e-2e68-4770-a456-ce3dfb153b7d.png" width="900px">
 
   - Como funciona
-<img src="https://user-images.githubusercontent.com/114973305/199407831-6697ae2a-035c-4185-ad48-e8dd975e63a3.png" width="700px">
+<img src="https://user-images.githubusercontent.com/114973305/206882930-7c5f8e5e-d18c-4fa6-b928-59780a7eadac.png" width="900px">
 
-  - Informativos
-<img src="https://user-images.githubusercontent.com/114973305/199407887-7aea4d33-db34-437e-a134-36573aa3e51c.png" width="700px">
+  - Login
+<img src="https://user-images.githubusercontent.com/114973305/206882902-5a83b0ac-2d02-487d-a0e8-1a2f56487fca.png" width="900px">
 
-  - Tela inicial - Após Login Catador
-<img src="https://user-images.githubusercontent.com/114973305/199407951-478b1878-2733-447b-aeff-aca831878352.png" width="700px">
+  - cadastro para Catador
+<img src="https://user-images.githubusercontent.com/114973305/206882906-e726181a-4632-4e79-aa99-6eeb91c77528.png" width="900px">
 
-  - Minhas coletas - Coletador
-<img src="https://user-images.githubusercontent.com/114973305/199407929-4f3e0dff-6c40-48bb-a298-59c1eca05e9f.png" width="700px">
+  - Cadastro para Reciclador
+<img src="https://user-images.githubusercontent.com/114973305/206882910-59b62c37-a537-4870-82ba-b97a3503e7fd.png" width="900px">
 
-  - Minhas coletas - Recilador
-<img src="https://user-images.githubusercontent.com/114973305/199407951-478b1878-2733-447b-aeff-aca831878352.png" width="700px">
+  - Pagina incial Reciclador
+<img src="https://user-images.githubusercontent.com/114973305/206882981-f70c4be2-1a1d-4d42-acb4-0c37b6424c36.png" width="900px">
+
+  - Agendamento Reciclador
+<img src="https://user-images.githubusercontent.com/114973305/206882989-007a02e0-b844-401b-88b9-8647f5ab139e.png" width="900px">
+
+- Pagina inicial Coletador
+<img src="https://user-images.githubusercontent.com/114973305/206882957-893997bc-a7c7-430e-acfc-98a46bb687fc.png" width="900px">
+
+- Agendamento Coletador
+<img src="https://user-images.githubusercontent.com/114973305/206882966-934003b5-356a-481c-bc1c-908a4dfccc0a.png" width="900px">
+
+- Agendamento de coleta
+<img src="https://user-images.githubusercontent.com/114973305/206882976-538cf4d3-8c45-4173-ab62-b8e32ac888a2.png" width="900px">
 
   - Chat
-<img src="https://user-images.githubusercontent.com/114973305/199408000-57f6286f-4922-4123-ba68-00ec3af37e87.png" width="700px">
-
-  - Agendamentos
-<img src="https://user-images.githubusercontent.com/114973305/199408033-8ae30685-0175-4274-a682-7e028c64f6c9.png" width="700px">
-
-  - Histórico
-<img src="https://user-images.githubusercontent.com/114973305/199408062-63a50f6c-3aa1-4306-9b25-6c55d58ed36e.png" width="700px">
+<img src="https://user-images.githubusercontent.com/114973305/199408000-57f6286f-4922-4123-ba68-00ec3af37e87.png" width="900px">
 
   - Avaliação
-<img src="https://user-images.githubusercontent.com/114973305/199410375-bb005239-21ba-418e-bd72-75e02fa35c17.png" width="700px">
+<img src="https://user-images.githubusercontent.com/114973305/199410375-bb005239-21ba-418e-bd72-75e02fa35c17.png" width="900px">
