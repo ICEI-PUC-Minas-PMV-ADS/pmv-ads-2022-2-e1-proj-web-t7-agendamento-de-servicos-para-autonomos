@@ -68,11 +68,28 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
 
 - Execução: 
   - Toda a equipe ficou responsável pela execução da sprint 
-  - Devido à falta de tempo para a sprint, algumas ações esperadas para essa tarefa deixaram de ser realizadas. Foi determinado junto a equipe de desenvolvimento a prorrogação do período para que a entrega do processo pudesse ser satisfatória. 
-  - Tivemos como dificuldades o desligamento do colaborador Adrian Keven que figurava como Scrum Master 
+  - Foram apresentados o template em formato HTML e CSS e a Programação de Funcionalidades. Foram desenvolvidas as página Home, Informativos, Como Funciona Login e Cadastro. 
 
 - Evidências:
-<img src="https://user-images.githubusercontent.com/114973305/199386261-22841747-c38e-425b-b3b8-b20756d52d34.png" width= "400px">
+<img src="https://user-images.githubusercontent.com/114973305/206941349-7fc5ea69-ee3c-451e-9efe-ac0633ab5e0a.png" width="400px">
+
+<img src="https://user-images.githubusercontent.com/114973305/206941360-9cbaaf46-c3cd-448d-837d-0e467cbc2161.png" width="400px">
+
+### Sprint 4
+
+- Planejamento:  Nesta sprint os entregáveis planejados foramo Plano de Testes des de Softwares e os registros de Teste de Softwares.
+  
+- Execução: 
+  - Toda a equipe ficou responsável pela execução da sprint 
+  - Apesar da organização da equipe e da realização dos testes, não conseguimos implementar os registros de testes de Softwares.
+  - Tivemos como dificuldades a inexperiência dos colaboradores com a manipulação dos objetos em JS e JSON, apesar do esforço executado não conseguimos nesse momento, em virtude do prazo e demanda indivídual da equipe de desenvolvimento, armazenar de maneira funcional o banco de dados. 
+
+-Evidências
+
+<img src="https://user-images.githubusercontent.com/114973305/206944688-e3a88fbf-1925-41fd-a437-e6ac2a591040.png" width="400px">
+     
+<img src="https://user-images.githubusercontent.com/114973305/206944333-c5846039-bf60-4d91-af84-2e26449ea85f.png" width="400px">
+
 
 Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  está  utilizando  o Trello estruturado com as seguintes listas: 
   - Backlog: Recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
@@ -83,6 +100,6 @@ Para  organização  e  distribuição  das  tarefas  do  projeto,  a  equipe  e
 O quadro Kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está 
 disponível através da URL (https://trello.com/b/rhN5TCrn/agendamento-de-servi%C3%A7os-para-aut%C3%B4nomos) e é apresentado, no estado atual, na Figura 10. 
 
-![Kanban](https://user-images.githubusercontent.com/114973305/199388256-6964e0c7-f44f-47d9-a389-28e5c6a0d960.png)
-Figura 10 - Tela do Kanban utilizada pelo grupo
+![Metodolodia](../docs/img/Kanban.png)
+Figura 1 - Tela do Kanban utilizada pelo grupo
 
