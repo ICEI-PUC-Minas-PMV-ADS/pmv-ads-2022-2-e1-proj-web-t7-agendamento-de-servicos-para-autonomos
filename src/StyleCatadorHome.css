@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    font-family:'Poppins', sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logo{
+    font-size: 20px;
+    margin: 10px 20px;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+li{
+    display: inline-block;
+    padding: 0px 64px;
+}
+
+.usuario
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h2{
+    text-align: left;
+    margin: 15px 20px;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.os-cards{
+    display: flex;
+}
+
+.card-agendamento{
+    width: 280px;
+    height: 480px;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    flex-direction: column;
+}
+
+.lixo{
+    width: 260px;
+    height: 190px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.img-agendamento{
+    display: flex;
+    justify-content: center;
+}
+
+.text-card{
+    text-align: left;
+    margin: 20px 10px;
+}
+
+.titulo-desc{
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.descricao-coleta{
+    font-size: 14px;
+    text-align: left ;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;  
+}
+.demanda-btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    border: none;   
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    color: #fff;
+}
+
+.chat-btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 14px;
+    border: none;
+    background-image: linear-gradient(to bottom, #8F8B8B, #DADADA);   
+    color: #fff;
+}
+
+.chat-catador{
+    position: absolute;
+    right: 0.5%;
+    width: 275px;
+    height: 480px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.title-chat{
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 12px;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+    margin: 0px 10px;
+}
+
+.search-box{
+    padding: 5px;
+    border: solid #D9D9D9 1px;
+    border-radius: 4px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn-search{
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    color: #fff;
+}
+
+.card-amigo{
+    display: flex;
+    justify-content: left;
+    width: 255px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    flex-direction: row;
+}
+
+.img-user{
+    padding: 10px;
+}
+.user-photo{
+    width: 40px;
+    height: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.name-user{
+    text-align: left;
+    font-size: 14px;
+    background-image: linear-gradient(to bottom, #1E5B53, #A1C349);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+    
+}
+
+.msg-user{
+    text-align: left;
+    color: #D9D9D9;
+    font-size: 12px;
+}
+
+.info-user{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.info-texto { margin-top: 5%; }
+
+
