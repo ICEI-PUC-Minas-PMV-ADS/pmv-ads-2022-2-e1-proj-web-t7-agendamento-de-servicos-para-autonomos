@@ -28,7 +28,7 @@ A responsividade segue o padrão do Bootstrap e o template está disponível no 
 <p align="center">Figura 7: Home Reciclador</p>
 
 ![Template padrão do site](../docs/img/historicoreciclador.png)
-<p align="center">Figura 8: Histórico Reciclador</p>
+<p align="center">Figura 8: Histórico  Reciclador</p>
 
 ![Template padrão do site](../docs/img/cadastrocatador.png)
 <p align="center">Figura 9: Cadastro Catador</p>
