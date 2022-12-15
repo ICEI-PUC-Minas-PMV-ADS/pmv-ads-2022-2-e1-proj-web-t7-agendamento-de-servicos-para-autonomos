@@ -1,57 +1,88 @@
 # Programação de Funcionalidades
 
-A pagina de login apresenta dados de usuários que foram cadastrados, os usuários e senhas são armazenados no LocalStorgage com estruturas de dados baseadas em JSON.
-Um exemplo da tela é apresentada a seguir:
+# Informativos
 
-![Programação de Funcionalidade](../docs/img/login-pf.png)
+Esta página contém informativos a respeito da relevância da reciclagem, bem como a variedade e padrões para o correto descarte dos resíduos sólidos.
 
-## Possibilitar o cadastro de recicladores, coletadores e pontos de entrega (RF-004)
-
-A pagina Cadastre-se apresenta para cadastramentos dados de usuários, e-mail, localização, telefone e senha, que são armazenados no LocalStorgage com estruturas de dados baseadas em JSON.
-Um exemplo da tela é apresentada a seguir:
-
-![Programação de Funcionalidade](../docs/img/cadastroreciclador-pf.png)
-
+![Home](../docs/img/informativos.png)
 
 <ins>**Requisitos atendidos**</ins>
-  - RF-004
+
+* RF-002 - Ter informativos que dissertem a respeito dos impactos negativos do lixo no meio ambiente, bem como da importância da reciclagem
 
 <ins>**Artefatos de funcionalidade**</ins>
-  - cadastrorecilador.hmtl
-  - script_home.js
-  - cadastroreciclador.css
-  - cadastroreciclador-pf.png
 
-<ins>**Estrutura de Dados**</ins>
-  <p>Em desenvolvimento</p>
+* [Informativos](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/informativos.html)
+* estilo.css
 
 <ins>**instruções de acesso**</ins>
-  - Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/home.html
-  - Clique na aba Cadastre-se
-  - Identifique-se como Coletador ou Reciclador
-  - Insira os dados: Nome Completo, e-mail, CPF, Celular, Estado, CEP, Endereço, Complemento, Bairro, Senha, Confirma senha, e depois clique em cadastrar
+ 1. Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/home.html
+  2. Clique na aba Informativos
+--------------------------
+# Home Catador
 
+Esta página é apresentada após o coletador ter realizado login, o mesmo poderá visualizar e assumir a demanda, e também entrar em contato com o reciclador via chat.
 
-## Ter informativos que dissertem a respeito dos impactos negativos do lixo no meio ambiente, bem como da importância da reciclagem (RF-003)
-
-A pagina Informativos apresenta informações essenciais aos usuários a respeito da importância da reciclagem e metodos de manuseio de matériais recicláveis. A mesma possui estrutura de dados baseada em HTML e CSS.
-Um exemplo da tela é apresentada a seguir:
-
-![Programação de Funcionalidade](../docs/img/informativos.png)
-
+![Home](../docs/img/catadorhome.png)
 
 <ins>**Requisitos atendidos**</ins>
-  - RF-003
+
+* RF-005 - Possibilitar que os coletadores encontrem os recicladores e os pontos de pontos de entrega mais próximos
 
 <ins>**Artefatos de funcionalidade**</ins>
-  - informativos.hmtl
-  - informativos.css
 
-<ins>**Estrutura de Dados**</ins>
-![Programação de Funcionalidade](../docs/img/informativoshtml.png)
-
-![Programação de Funcionalidade](../docs/img/informativoscss.png)
+* [Home Coletador](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/CatadorHome.html)
+* estilo.css
 
 <ins>**instruções de acesso**</ins>
-  - Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/home.html
-  - Clique na aba Informativos
+1. Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/CatadorHome.html
+2. Clique sobre o Card para identificar a localização da demanda
+3. Clique em assumir demanda para manifestar aceitação ao serviço oferecido
+4. Clique em chat para entrar em contato com o Recilador
+--------------------------------
+# Home Reciclador
+
+Esta pagina é apresentada após o Reciclador ter realizado login, o mesmo terá acesso a notícias sobre os tipos de residuos, formas de preparação e manuseio, e também entrar em contato com o coletador via chat.
+
+![Home](../docs/img/homereciclador.png)
+
+<ins>**Requisitos atendidos**</ins>
+
+* RF-001 - Permitir agendar a coleta e informar aos usuários como preparar os materiais para a retirada
+* RF-004 - Permitir que o reciclador combine os detalhes da retirada com o coletador
+
+<ins>**Artefatos de funcionalidade**</ins>
+
+* [Home Recilador](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/HomeReciclador.html)
+* estilo.css
+
+<ins>**instruções de acesso**</ins>
+1. Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/HomeReciclador.html
+2. Leia atentamente as orientações para acondicionamento e manuseio do material escolhido para descarte
+3. Clique na aba Agendamentos para registrar a demanda de materiais a serem reciclados
+4. Após confirmado o interesse por parte de um coletador para o serviço ofertado, combine os detalhes de retirada através do chat disponível na margem esquerda da página
+----------------------------
+# Cadastre-se
+
+Esta página permite ao usuário que identifique-se como coletador ou reciclador, em seguida é direcionado para as páginas que permitem o registro de sua localização, dados pessoais e realizar o cadastramento de senha de sua preferência.
+
+![Cadastre-se](../docs/img/cadastro.png)
+![Cadastre-se](../docs/img/cadastroreciclador.png)
+![Cadastre-se](../docs/img/cadastrocatador.png)
+
+<ins>**Requisitos atendidos**</ins>
+
+* RF-003 - 	Possibilitar o cadastro de recicladores, coletadores e pontos de entrega
+
+# Artefatos de Funcionalidades
+
+* [Cadastre-se](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/cadastro.html)
+* [Cadastro de Recilador](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/cadastrocatador.html)
+* [Cadastro de Coletador](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/cadastroreciclador.html)
+* estilo.css
+
+<ins>**instruções de acesso**</ins>
+1. Abra o navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t7-agendamento-de-servicos-para-autonomos/src/cadastro.html
+2. Identifique-se como Coletador ou Reciclador
+3. Caso seja Reciclador, registre as informações solicitadas referente a dodos pessoais, localização, contato, realize o cadastramento e confirmação da senha desejada. 
+4. Caso seja Coletador, registre as informações solicitadas referente a dodos pessoais, localização, contato, realize o cadastramento e confirmação da senha desejada, informe qual o tipo de material realiza o recolhimento.
