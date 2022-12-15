@@ -31,11 +31,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir agendar a coleta e informar aos usuários como preparar os materiais para a retirada  | ALTA | 
-|RF-002| Permitir avaliar os coletadores pelos serviços prestados    | MÉDIA |
-|RF-003| Ter informativos que dissertem a respeito dos impactos negativos do lixo no meio ambiente, bem como da importância da reciclagem   | MÉDIA |
-|RF-004| Possibilitar o cadastro de recicladores, coletadores e pontos de entrega    | ALTA |
-|RF-005| Permitir que o reciclador combine os detalhes da retirada com o coletador    | ALTA |
-|RF-006| Possibilitar que o coletadores encontrem os recicladores e os pontos de pontos de entrega mais próximos   | ALTA |
+|RF-002| Ter informativos que dissertem a respeito dos impactos negativos do lixo no meio ambiente, bem como da importância da reciclagem   | MÉDIA |
+|RF-003| Possibilitar o cadastro de recicladores, coletadores e pontos de entrega    | ALTA |
+|RF-004| Permitir que o reciclador combine os detalhes da retirada com o coletador    | ALTA |
+|RF-005| Possibilitar que o coletadores encontrem os recicladores e os pontos de pontos de entrega mais próximos   | ALTA |
 
 ### Requisitos não Funcionais
 
