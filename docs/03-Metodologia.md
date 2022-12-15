@@ -68,7 +68,7 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
 
 - Execução: 
   - Toda a equipe ficou responsável pela execução da sprint 
-  - Foram apresentados o template em formato HTML e CSS e a Programação de Funcionalidades. Foram desenvolvidas as página Home, Informativos, Como Funciona Login e Cadastro. 
+  - Foram apresentados o template em formato HTML e CSS e a Programação de Funcionalidades.
 
 - Evidências:
 <img src="https://user-images.githubusercontent.com/114973305/206941349-7fc5ea69-ee3c-451e-9efe-ac0633ab5e0a.png" width="400px">
@@ -77,7 +77,7 @@ O processo foi definido através de sprints, onde ocorreu a definição do plane
 
 ### Sprint 4
 
-- Planejamento:  Nesta sprint os entregáveis planejados foramo Plano de Testes des de Softwares e os registros de Teste de Softwares.
+- Planejamento:  Nesta sprint os entregáveis planejados foram o Plano de Testes de Softwares e os registros de Teste de Softwares.
   
 - Execução: 
   - Toda a equipe ficou responsável pela execução da sprint 
