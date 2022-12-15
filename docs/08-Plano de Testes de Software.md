@@ -12,7 +12,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |-----------------|---------------------------------------------|
 |Requisitos associados| RF-001 - O site deve permitir agendar a coleta e informar aos usuários como preparar os materiais para a retirada <br>RF-002 - O site deve ter informativos que dissertem a respeito dos impactos negativos do lixo no meio ambiente, bem como da importância da reciclagem</br>   |
 |Objetivo do Teste| Verificar se o agendamento está disponível, e se a carga de informativos está acontecendo normalmente    |
-|Passos| <ol><li>A partir da página principal clicar na aba login</li><li>Identificar-se como Reciclador</li><li>Inserir dados de usuário e senha</li><li>Selecionar a aba Agendar Coleta</li></ol>      |
+|Passos| <ol><li>A partir da página principal clicar na aba login</li><li>Identificar-se como Reciclador</li><li>Inserir dados de usuário e senha</li><li>Selecionar a aba Agendamentos</li></ol>      |
 |Critérios de Êxito| <li>O agendamento e os informativos devem ser exibidos corretamente no site, sendo necessárias pelo menos 2 orientações de como preparar o material selecionado para coleta</li><li> Os informativos devem trazer imagens visíveis associadas ao material de interesse na coleta</li>      |
 </br>
 
