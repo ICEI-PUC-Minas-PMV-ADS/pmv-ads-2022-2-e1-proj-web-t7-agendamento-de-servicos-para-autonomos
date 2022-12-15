@@ -29,7 +29,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |Requisitos associados| RNF-001 - O site deve permitir avaliar os coletadores pelos serviços prestados <br>RNF-003  Ser intuitivo, de modo a permitir que pessoas com baixa alfabetização o utilize  |
 |Objetivo do Teste| Verificar se o acesso ao Login está funcionando de maneira correta  |
 |Passos| <ol><li>A partir da página principal Clicar na aba login</li><li>Inserir dados de usuário e senha</li></ol>      |
-|Critérios de Êxito| <li>Após acessar a página principal e clicar na aba login o site deve permitir que o usuário seja redirecionado para a página Login</li><li>      |
+|Critérios de Êxito| <li>Após acessar a página principal e clicar na aba login o site deve permitir que o usuário seja redirecionado para a página Login</li>      |
 <br>
 
 |Caso de Teste    | **CT-04 - Visualizar o cadastramento de Reciladores**  |
