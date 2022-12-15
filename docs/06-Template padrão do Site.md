@@ -22,5 +22,19 @@ A responsividade segue o padrão do Bootstrap e o template está disponível no 
 <p align="center">Figura 5: Seleção de Cadastro</p>
 
 ![Template padrão do site](../docs/img/cadastroreciclador.png)
-<p align="center">Figura 6: Cadastro</p>
+<p align="center">Figura 6: Cadastro Reciclador</p>
 
+![Template padrão do site](../docs/img/homereciclador.png)
+<p align="center">Figura 7: Home Reciclador</p>
+
+![Template padrão do site](../docs/img/historicoreciclador.png)
+<p align="center">Figura 8: Histórico Reciclador</p>
+
+![Template padrão do site](../docs/img/cadastrocatador.png)
+<p align="center">Figura 9: Cadastro Catador</p>
+
+![Template padrão do site](../docs/img/catadorhome.png)
+<p align="center">Figura 10: Catador Home</p>
+
+![Template padrão do site](../docs/img/agendamentocatador.png)
+<p align="center">Figura 11: Agendamento Catador</p>
